@@ -1,0 +1,1 @@
+INSERT INTO customer(name, country_id, email) values('Martin', 359, 'martin.atanasov@gmail.com');
